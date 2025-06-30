@@ -1,0 +1,5 @@
+path: .
+train: data/raw
+val: data/raw
+names:
+  0: defect

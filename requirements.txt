@@ -1,0 +1,13 @@
+torch
+torchvision
+onnx
+onnxruntime
+numpy
+opencv-python
+ultralytics
+groundingdino-py
+segment-anything
+openai
+requests
+Pillow
+tqdm
